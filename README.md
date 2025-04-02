@@ -12,7 +12,7 @@ A basic web application to display, create, edit, and delete posts using RESTful
 
 ## Tech Stack
 
-- Frontend: HTML, CSS
+- Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Templating Engine: EJS
 - APIs: RESTful APIs
