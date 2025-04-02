@@ -22,16 +22,18 @@ A basic web application to display, create, edit, and delete posts using RESTful
 Follow these steps to run the project locally:
 
 1. **Clone the repository**  
-   git clone https://github.com/Renu-telugu/quora-posts-app.git
-   cd quora-posts-app
+
+- git clone https://github.com/Renu-telugu/quora-posts-app.git
+- cd quora-posts-app
 
 2. **Install dependencies**
-   npm install
-   Start the server
 
-   npm start
-   Open the app in your browser
+- npm install
+- Start the server
 
+- npm start
+
+Open the app in your browser
 Go to: http://localhost:3000
 
 Now, your Quora Posts App should be up and running! 🚀
